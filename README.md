@@ -12,29 +12,29 @@ Pythonスクリプトは、**「AI英語発音コーチ」** というウェブ�
 *   **聞き取り:** Whisperという音声認識AIが、あなたの英語を聞き取ります。
 これらを使って、手軽に英語の発音練習ができるようになっています。
 
-## 主なライブラリ
-**Webアプリケーション**
-・[Streamlit](https://streamlit.io/ "Streamlit")
-・[audio-recorder-streamlit](https://pypi.org/project/audio-recorder-streamlit/ "audio_recorder_streamlit")
+## 主なライブラリ  
+**Webアプリケーション**  
+・[Streamlit](https://streamlit.io/ "Streamlit")  
+・[audio-recorder-streamlit](https://pypi.org/project/audio-recorder-streamlit/ "audio_recorder_streamlit")  
 
-**ML**
-・[PyTorch](https://pytorch.org/ "PyTorch")
-・[Transformers](https://github.com/huggingface/transformers "transformers")
+**ML**  
+・[PyTorch](https://pytorch.org/ "PyTorch")  
+・[Transformers](https://github.com/huggingface/transformers "transformers")  
 
-**音声処理**
-・[librosa](https://librosa.org/ "librosa")
-・[SoundFile](https://pypi.org/project/SoundFile/ "soundfile")
+**音声処理**  
+・[librosa](https://librosa.org/ "librosa")  
+・[SoundFile](https://pypi.org/project/SoundFile/ "soundfile")  
 
-**データ操作**
-・[NumPy](https://numpy.org/ "NumPy")
-・[math](https://docs.python.org/3/library/math.html "math")
+**データ操作**  
+・[NumPy](https://numpy.org/ "NumPy")  
+・[math](https://docs.python.org/3/library/math.html "math")  
 
-**評価指標**
-・[jiwer](https://pypi.org/project/jiwer/ "jiwer")
+**評価指標**  
+・[jiwer](https://pypi.org/project/jiwer/ "jiwer")  
 
-**AIサービス**
-・[google-generativeai](https://pypi.org/project/google-generativeai/ "google-generativeai")
+**AIサービス**  
+・[google-generativeai](https://pypi.org/project/google-generativeai/ "google-generativeai")  
 
-**システムユーティリティ**
-・[os](https://docs.python.org/3/library/os.html "os")
-・[io](https://docs.python.org/3/library/io.html "io")
+**システムユーティリティ**  
+・[os](https://docs.python.org/3/library/os.html "os")  
+・[io](https://docs.python.org/3/library/io.html "io")  
