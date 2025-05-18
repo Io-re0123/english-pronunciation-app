@@ -13,7 +13,7 @@ import soundfile as sf
 
 # Gemini APIキー
 try:
-    GOOGLE_API_KEY = "AIzaSyByDXNZW_A_q-PH3sKp_1wCiTVOmS8rPKk"
+    GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
 except KeyError:
     st.error("環境変数 GOOGLE_API_KEY が設定されていません。アプリケーションを実行する前に設定してください。")
     st.stop()
